@@ -1,0 +1,6 @@
+C:\Users\Sena Ceylan\source\repos\4.hafta_4.Soru_AdresSinifi\4.hafta_4.Soru_AdresSinifi\obj\Debug\4.hafta_4.Soru_AdresSinifi.csproj.CoreCompileInputs.cache
+C:\Users\Sena Ceylan\source\repos\4.hafta_4.Soru_AdresSinifi\4.hafta_4.Soru_AdresSinifi\bin\Debug\4.hafta_4.Soru_AdresSinifi.exe.config
+C:\Users\Sena Ceylan\source\repos\4.hafta_4.Soru_AdresSinifi\4.hafta_4.Soru_AdresSinifi\bin\Debug\4.hafta_4.Soru_AdresSinifi.exe
+C:\Users\Sena Ceylan\source\repos\4.hafta_4.Soru_AdresSinifi\4.hafta_4.Soru_AdresSinifi\bin\Debug\4.hafta_4.Soru_AdresSinifi.pdb
+C:\Users\Sena Ceylan\source\repos\4.hafta_4.Soru_AdresSinifi\4.hafta_4.Soru_AdresSinifi\obj\Debug\4.hafta_4.Soru_AdresSinifi.exe
+C:\Users\Sena Ceylan\source\repos\4.hafta_4.Soru_AdresSinifi\4.hafta_4.Soru_AdresSinifi\obj\Debug\4.hafta_4.Soru_AdresSinifi.pdb

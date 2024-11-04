@@ -1,0 +1,7 @@
+C:\Users\Sena Ceylan\source\repos\4.hafta_2.soru_ÜrünSinifi\4.hafta_2.soru_ÜrünSinifi\obj\Debug\4.hafta_2.soru_ÜrünSinifi.csprojAssemblyReference.cache
+C:\Users\Sena Ceylan\source\repos\4.hafta_2.soru_ÜrünSinifi\4.hafta_2.soru_ÜrünSinifi\obj\Debug\4.hafta_2.soru_ÜrünSinifi.csproj.CoreCompileInputs.cache
+C:\Users\Sena Ceylan\source\repos\4.hafta_2.soru_ÜrünSinifi\4.hafta_2.soru_ÜrünSinifi\bin\Debug\4.hafta_2.soru_ÜrünSinifi.exe.config
+C:\Users\Sena Ceylan\source\repos\4.hafta_2.soru_ÜrünSinifi\4.hafta_2.soru_ÜrünSinifi\bin\Debug\4.hafta_2.soru_ÜrünSinifi.exe
+C:\Users\Sena Ceylan\source\repos\4.hafta_2.soru_ÜrünSinifi\4.hafta_2.soru_ÜrünSinifi\bin\Debug\4.hafta_2.soru_ÜrünSinifi.pdb
+C:\Users\Sena Ceylan\source\repos\4.hafta_2.soru_ÜrünSinifi\4.hafta_2.soru_ÜrünSinifi\obj\Debug\4.hafta_2.soru_ÜrünSinifi.exe
+C:\Users\Sena Ceylan\source\repos\4.hafta_2.soru_ÜrünSinifi\4.hafta_2.soru_ÜrünSinifi\obj\Debug\4.hafta_2.soru_ÜrünSinifi.pdb

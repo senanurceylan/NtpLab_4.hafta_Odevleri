@@ -1,0 +1,6 @@
+C:\Users\Sena Ceylan\source\repos\4.hafta_1.soru\4.hafta_1.soru\bin\Debug\4.hafta_1.soru.exe.config
+C:\Users\Sena Ceylan\source\repos\4.hafta_1.soru\4.hafta_1.soru\bin\Debug\4.hafta_1.soru.exe
+C:\Users\Sena Ceylan\source\repos\4.hafta_1.soru\4.hafta_1.soru\bin\Debug\4.hafta_1.soru.pdb
+C:\Users\Sena Ceylan\source\repos\4.hafta_1.soru\4.hafta_1.soru\obj\Debug\4.hafta_1.soru_BankaSinifi.csproj.CoreCompileInputs.cache
+C:\Users\Sena Ceylan\source\repos\4.hafta_1.soru\4.hafta_1.soru\obj\Debug\4.hafta_1.soru.exe
+C:\Users\Sena Ceylan\source\repos\4.hafta_1.soru\4.hafta_1.soru\obj\Debug\4.hafta_1.soru.pdb

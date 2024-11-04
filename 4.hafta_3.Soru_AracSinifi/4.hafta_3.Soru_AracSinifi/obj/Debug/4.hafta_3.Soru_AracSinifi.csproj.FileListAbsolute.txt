@@ -1,0 +1,7 @@
+C:\Users\Sena Ceylan\source\repos\4.hafta_3.Soru_AracSinifi\4.hafta_3.Soru_AracSinifi\obj\Debug\4.hafta_3.Soru_AracSinifi.csprojAssemblyReference.cache
+C:\Users\Sena Ceylan\source\repos\4.hafta_3.Soru_AracSinifi\4.hafta_3.Soru_AracSinifi\obj\Debug\4.hafta_3.Soru_AracSinifi.csproj.CoreCompileInputs.cache
+C:\Users\Sena Ceylan\source\repos\4.hafta_3.Soru_AracSinifi\4.hafta_3.Soru_AracSinifi\bin\Debug\4.hafta_3.Soru_AracSinifi.exe.config
+C:\Users\Sena Ceylan\source\repos\4.hafta_3.Soru_AracSinifi\4.hafta_3.Soru_AracSinifi\bin\Debug\4.hafta_3.Soru_AracSinifi.exe
+C:\Users\Sena Ceylan\source\repos\4.hafta_3.Soru_AracSinifi\4.hafta_3.Soru_AracSinifi\bin\Debug\4.hafta_3.Soru_AracSinifi.pdb
+C:\Users\Sena Ceylan\source\repos\4.hafta_3.Soru_AracSinifi\4.hafta_3.Soru_AracSinifi\obj\Debug\4.hafta_3.Soru_AracSinifi.exe
+C:\Users\Sena Ceylan\source\repos\4.hafta_3.Soru_AracSinifi\4.hafta_3.Soru_AracSinifi\obj\Debug\4.hafta_3.Soru_AracSinifi.pdb

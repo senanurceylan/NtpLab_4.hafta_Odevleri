@@ -1,0 +1,7 @@
+C:\Users\Sena Ceylan\source\repos\4.hafta_5.Soru_Kütüphane\4.hafta_5.Soru_Kütüphane\bin\Debug\4.hafta_5.Soru_Kütüphane.exe.config
+C:\Users\Sena Ceylan\source\repos\4.hafta_5.Soru_Kütüphane\4.hafta_5.Soru_Kütüphane\bin\Debug\4.hafta_5.Soru_Kütüphane.exe
+C:\Users\Sena Ceylan\source\repos\4.hafta_5.Soru_Kütüphane\4.hafta_5.Soru_Kütüphane\bin\Debug\4.hafta_5.Soru_Kütüphane.pdb
+C:\Users\Sena Ceylan\source\repos\4.hafta_5.Soru_Kütüphane\4.hafta_5.Soru_Kütüphane\obj\Debug\4.hafta_5.Soru_Kütüphane.csprojAssemblyReference.cache
+C:\Users\Sena Ceylan\source\repos\4.hafta_5.Soru_Kütüphane\4.hafta_5.Soru_Kütüphane\obj\Debug\4.hafta_5.Soru_Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\Sena Ceylan\source\repos\4.hafta_5.Soru_Kütüphane\4.hafta_5.Soru_Kütüphane\obj\Debug\4.hafta_5.Soru_Kütüphane.exe
+C:\Users\Sena Ceylan\source\repos\4.hafta_5.Soru_Kütüphane\4.hafta_5.Soru_Kütüphane\obj\Debug\4.hafta_5.Soru_Kütüphane.pdb
